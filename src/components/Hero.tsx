@@ -25,7 +25,7 @@ export function Hero() {
           {/* Logo */}
           <div className="mb-12 animate-fadeInUp">
             <img 
-              src="../elements/maven_logo.png" 
+              src="/elements/maven_logo.png" 
               alt="知途 Maven Consulting" 
               className="h-32 md:h-44 mx-auto"
             />

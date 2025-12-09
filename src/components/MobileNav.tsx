@@ -21,7 +21,7 @@ export function MobileNav({ isMenuOpen, setIsMenuOpen }: MobileNavProps) {
         <div className="container mx-auto px-6 py-5 flex justify-between items-center">
           <div className="flex items-center">
             <img 
-              src="../elements/maven_logo.png" 
+              src="/elements/maven_logo.png" 
               alt="知途 Maven Consulting" 
               className="h-10 md:h-12"
             />
