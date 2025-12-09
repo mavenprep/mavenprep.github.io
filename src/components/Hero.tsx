@@ -28,7 +28,7 @@ export function Hero() {
             <img 
               src={mavenLogo} 
               alt="知途 Maven Consulting" 
-              className="h-32 md:h-44 mx-auto"
+              className="h-40 md:h-48 mx-auto"
             />
           </div>
           
